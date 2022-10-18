@@ -1,0 +1,30 @@
+
+* {
+    font-size: 100%;
+    font-family: "Work Sans",sans-serif;
+    margin-left: 1%;
+    margin-right: auto;
+    color: white
+}
+
+h1 {
+    display: flex;
+    font-size: xx-large;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    font-size: x-large;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
+
+  body {
+    background-color: black;
+  }
