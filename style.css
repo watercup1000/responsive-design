@@ -1,10 +1,16 @@
 
 * {
-    font-size: 100%;
-    font-family: "Work Sans",sans-serif;
-    margin-left: 1%;
-    margin-right: auto;
-    color: white
+    font-family: 'Courier New', monospace;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to bottom right, rgb(255, 255, 255), rgb(139, 137, 137));
+  }
+
+.main-div {
+    margin: 20px;
 }
 
 h1 {
@@ -25,6 +31,3 @@ img {
   width: 50%;
   }
 
-  body {
-    background-color: black;
-  }
